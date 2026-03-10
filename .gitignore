@@ -1,0 +1,8 @@
+# Terraform files to ignore
+.terraform/
+terraform.tfstate
+terraform.tfstate.*
+.terraform.lock.hcl
+
+# OS files
+.DS_Store
